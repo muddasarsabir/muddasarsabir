@@ -1,7 +1,7 @@
 .t1
 {
-    margin-top: 1%;
-    margin-left: 1%;
+    height: 65px;
+    width: 65px;
 }
 .t2
 {
@@ -32,6 +32,10 @@ h5
     font-family: 'Play', sans-serif;
     font-family: 'Righteous', cursive; */
 }
+.style-17
+{
+    background-image: linear-gradient(150deg, navy 0%, dodgerblue 35%, skyblue 50%, rgb(33, 241, 33) 50%, rgb(30, 255, 0) 51%, rgb(3, 95, 3) 100%);
+}
 .h-2-1
 {
     font-family:  'Electrolize', sans-serif;
@@ -45,9 +49,11 @@ h2
     font-family: 'Libre Baskerville', sans-serif;
 }
 .parallax-container {
-    height: 7em;
+    height: 5em;
   }
-      
+.p-c {
+    height: 7em;
+} 
 .p-1
 {
     font-size: 130%;
@@ -79,3 +85,9 @@ b
     border-bottom: transparent;
     padding-left: 10px;
 }
+.grad1 {
+    background-image: repeating-linear-gradient( to right, gray 4% , black 8%);
+  }
+.grad2 {
+    background-image: repeating-linear-gradient( to left, gray 4% , black 8%);
+  }
