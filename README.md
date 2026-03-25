@@ -100,26 +100,6 @@ Object detection, segmentation, real-time deployment
 
 ---
 
-## 🚀 Optional Advanced Add-ons
-
-* 🔄 Auto-update blog posts via GitHub Actions
-* 📊 ML experiment tracking badges (MLflow integration)
-* 🤖 n8n workflow status badges
-* 🧠 Live model API status (FastAPI health endpoint badge)
-
----
-
-## ⚙️ Setup Notes
-
-1. Create repo named: `muddasarsabir`
-2. Add this as `README.md`
-3. Enable GitHub Actions for snake animation
-
-Snake animation repo guide:
-https://github.com/Platane/snk
-
----
-
 <p align="center">
   ⚡ Building AI systems from research → production
 </p>
