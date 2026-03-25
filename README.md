@@ -1,68 +1,74 @@
-# 👋 Hi, I'm Muhammad Muddasar Sabir (muddasarsabir)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Muhammad%20Muddasar%20Sabir&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-🚀 AI/ML Engineer | MLOps | Generative AI | Computer Vision | NLP
-💡 Building scalable ML systems, deploying real-world AI solutions
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Engineer;Generative+AI+Specialist;Computer+Vision+Engineer;MLOps+Practitioner;Building+Scalable+AI+Systems&center=true&width=500&height=45">
+</p>
 
----
-
-## 🌐 Portfolio & Profiles
-
-* 🌍 Website: https://muddasarsabir.netlify.app
-* 💼 LinkedIn: https://www.linkedin.com/in/mudasarsabir
-* 💻 GitHub: https://github.com/muddasarsabir
-
----
-
-## ⚡ Tech Stack
-
-### 🧠 AI / ML / DL
-
-* TensorFlow, PyTorch, Scikit-learn
-* Hugging Face Transformers
-* OpenCV, YOLO, Detectron2
-
-### ⚙️ MLOps & Deployment
-
-* Docker, Kubernetes
-* MLflow, DVC
-* FastAPI, Flask
-* CI/CD (GitHub Actions)
-
-### 📊 Data & Engineering
-
-* Pandas, NumPy
-* PostgreSQL, MongoDB
-* Feature Engineering, Data Pipelines
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muddasarsabir&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/muddasarsabir?label=Followers&style=social" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 About Me
 
-### 🧠 AI Chatbot (LLM-based)
-
-* Built using Hugging Face + Transformers
-* Deployed via FastAPI with scalable API endpoints
-* Integrated conversation memory and prompt engineering
-
-### 🧠 Brain-Computer Interface (EEG)
-
-* Signal preprocessing + noise filtering
-* Feature extraction + ML classification
-* Real-time control system for assistive tech
+* 💼 CEO & AI/ML Engineer
+* 🤖 Specialized in ML, DL, NLP, Computer Vision
+* ⚙️ Building production-grade MLOps pipelines
+* 📊 Focus on scalable deployment and monitoring
+* 🌱 Exploring LLMs, Generative AI, and automation
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 Tech Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=muddasarsabir\&show_icons=true\&theme=radical)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=muddasarsabir\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muddasarsabir\&layout=compact\&theme=radical)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,docker,kubernetes,aws,gcp,git,linux,opencv,fastapi" />
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📌 Featured Projects
+
+### 🔍 EEG-Based Brain-Computer Interface
+
+End-to-end ML pipeline using EEG signals for wheelchair control
+
+### 🧠 LLM-based Chatbot
+
+Transformer-based NLP chatbot with real-time inference
+
+### 🎯 Computer Vision Systems
+
+Object detection, segmentation, real-time deployment
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muddasarsabir&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muddasarsabir&theme=tokyonight" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muddasarsabir&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+## 📊 Contribution Graph (Animated)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muddasarsabir&theme=tokyo-night" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muddasarsabir/muddasarsabir/output/github-snake-dark.svg">
@@ -72,37 +78,32 @@
 
 ---
 
-## 🧩 Activity Graph
+## 🌐 Connect With Me
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muddasarsabir\&theme=react-dark)
-
----
-
-## 🏆 Achievements
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=muddasarsabir\&theme=radical\&no-frame=true\&margin-w=5)
+<p align="center">
+  <a href="https://muddasarsabir.netlify.app"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mudasarsabir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://github.com/muddasarsabir"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+</p>
 
 ---
 
-## 📡 MLOps Workflow (Your Strength)
+## ⚡ Fun Section (Dynamic Quote)
 
-* Data Ingestion → Validation → Feature Engineering
-* Model Training → Evaluation → Experiment Tracking (MLflow)
-* Model Registry → Deployment (Docker + FastAPI)
-* Monitoring → Data Drift Detection → Retraining Pipeline
-
----
-
-## 🤝 Let's Collaborate
-
-💬 Open to:
-
-* AI/ML Projects
-* Freelance Work
-* Research Collaboration
-
-📧 Contact via LinkedIn or Website
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *"Building intelligent systems that scale in production."*
+## 🔥 Dev Quote + Meme
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  ⭐ "Building intelligent systems that scale in production."
+</p>
