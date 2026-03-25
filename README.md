@@ -31,11 +31,11 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muddasarsabir&theme=onedark&row=1&column=6" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muddasarsabir/muddasarsabir/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muddasarsabir/muddasarsabir/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/muddasarsabir/muddasarsabir/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
