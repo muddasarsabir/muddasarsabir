@@ -105,5 +105,5 @@ Object detection, segmentation, real-time deployment
 ---
 
 <p align="center">
-  ⚡ Building AI systems from research → production
+  ⭐ *"Building intelligent systems that scale in production."*
 </p>
