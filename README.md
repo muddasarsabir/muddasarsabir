@@ -69,7 +69,7 @@ Object detection, segmentation, real-time deployment
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/muddasarsabir/muddasarsabir/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
