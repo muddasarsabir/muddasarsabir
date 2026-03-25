@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Muhammad%20Muddasar%20Sabir&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=150&section=header&text=Muhammad%20Muddasar%20Sabir&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
