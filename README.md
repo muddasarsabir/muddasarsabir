@@ -51,6 +51,9 @@ Object detection, segmentation, real-time deployment
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muddasarsabir&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muddasarsabir&theme=tokyonight" height="150"/>
 </p>
 
