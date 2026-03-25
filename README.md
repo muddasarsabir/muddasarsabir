@@ -105,5 +105,5 @@ Object detection, segmentation, real-time deployment
 ---
 
 <p align="center">
-  ⭐ *"Building intelligent systems that scale in production."*
+  ⭐ "Building intelligent systems that scale in production."
 </p>
