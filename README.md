@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Muhammad%20Muddasar%20Sabir&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI%2FML+Engineer;Generative+AI+Specialist;Computer+Vision+Engineer;MLOps+Practitioner;Building+Scalable+AI+Systems&center=true&width=500&height=45">
 </p>
