@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-* 💼 CEO & AI/ML Engineer
+* 💼 AI/ML Engineer
 * 🤖 Specialized in ML, DL, NLP, Computer Vision
 * ⚙️ Building production-grade MLOps pipelines
 * 📊 Focus on scalable deployment and monitoring
