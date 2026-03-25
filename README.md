@@ -70,9 +70,11 @@ Object detection, segmentation, real-time deployment
 
 ## 🐍 Contribution Snake Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muddasarsabir/muddasarsabir/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/muddasarsabir/muddasarsabir/output/github-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/muddasarsabir/muddasarsabir/output/github-snake.svg">
+</picture>
 
 ---
 
